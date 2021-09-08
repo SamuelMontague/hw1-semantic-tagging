@@ -1,4 +1,4 @@
-# hw1-semantic-tagging
+# semantic-tagging
 
 My mission was to edit and optimize semantic tags, for a better reading and navigating experience. 
 
